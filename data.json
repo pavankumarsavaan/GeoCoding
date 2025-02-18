@@ -1,0 +1,5 @@
+{
+  "base_uri": "http://api.openweathermap.org/geo/1.0",
+  "limit": 5,
+  "app_id": "f897a99d971b5eef57be6fafa0d83239"
+}
